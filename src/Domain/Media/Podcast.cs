@@ -2,7 +2,7 @@ using workshop.Domain.Interfaces;
 
 namespace workshop.Domain.Media
 {
-	public class Podcast
+	public class Podcast: Media
 	{
 		public string[] Host;
 		public string[] Guest;
