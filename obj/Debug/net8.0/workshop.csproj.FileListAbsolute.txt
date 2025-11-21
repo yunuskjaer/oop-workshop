@@ -1,0 +1,15 @@
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.GeneratedMSBuildEditorConfig.editorconfig
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.AssemblyInfoInputs.cache
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.AssemblyInfo.cs
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.csproj.CoreCompileInputs.cache
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.sourcelink.json
+/home/paul/oop/workshop/bin/Debug/net8.0/workshop
+/home/paul/oop/workshop/bin/Debug/net8.0/workshop.deps.json
+/home/paul/oop/workshop/bin/Debug/net8.0/workshop.runtimeconfig.json
+/home/paul/oop/workshop/bin/Debug/net8.0/workshop.dll
+/home/paul/oop/workshop/bin/Debug/net8.0/workshop.pdb
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.dll
+/home/paul/oop/workshop/obj/Debug/net8.0/refint/workshop.dll
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.pdb
+/home/paul/oop/workshop/obj/Debug/net8.0/workshop.genruntimeconfig.cache
+/home/paul/oop/workshop/obj/Debug/net8.0/ref/workshop.dll

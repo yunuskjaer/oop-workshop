@@ -1,4 +1,4 @@
-namespace workshop.Interfaces
+namespace workshop.Domain.Interfaces
 {
 	public interface IRatable
 	{
